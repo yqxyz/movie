@@ -2,7 +2,7 @@
 # 电影推荐系统
 
 在线 (https://morning-forest-54273.herokuapp.com/)
-- 前端 vue vuex 项目地址(https://github.com/quentinyy/movie-vue)
+- 前端 vue vuex 项目地址(https://github.com/yqxyz/movie-vue)
 - 后台 spring boot jpa mahout
 - 主页
 
